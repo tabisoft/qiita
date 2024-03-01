@@ -2,10 +2,10 @@
 title: 【OCI Functions】 pre-built の Document Generator 試してみた
 tags:
   - oci
-  - functions
+  - Functions
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-03-01T21:56:02+09:00'
+id: ea880796bce04ba824dc
 organization_url_name: null
 slide: false
 ignorePublish: false
