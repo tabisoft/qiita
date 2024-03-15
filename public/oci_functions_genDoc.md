@@ -4,8 +4,8 @@ tags:
   - oci
   - Functions
 private: false
-updated_at: 
-id: 
+updated_at: '2024-03-15T23:32:02+09:00'
+id: 1a841ab23cf280970bb3
 organization_url_name: null
 slide: false
 ignorePublish: false
