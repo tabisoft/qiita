@@ -10,6 +10,6 @@ qiita記事管理用
     `npx qiita new 記事のファイルのベース名`
     - できた.mdを編集
 - 投稿(pushしたらActionsが勝手にやってくれる)  
-    `git add . -A`
-    `git commit -m "コメント"`
+    `git add . -A`  
+    `git commit -m "コメント"`  
     `git push`
