@@ -4,7 +4,7 @@ tags:
   - oci
   - Functions
   - ファンクション
-private: false
+private: true
 updated_at: '2024-03-01T21:56:02+09:00'
 id: ea880796bce04ba824dc
 organization_url_name: null
